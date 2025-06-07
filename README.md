@@ -174,5 +174,5 @@ The bot runs several background tasks to keep the workflow smooth:
 ---
 ## Contact
 
-Discord: punchsamurai
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/BlueEye2077/discord-manhua-bot)
+* Discord: punchsamurai
+* Project Link: [https://github.com/your-username/your-repo-name](https://github.com/BlueEye2077/discord-manhua-bot)
