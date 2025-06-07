@@ -1,0 +1,6 @@
+aiosqlite==0.20.0
+discord.py==2.4.0
+python-dotenv==1.0.1
+pytz==2024.2
+thefuzz==0.22.1
+requests
